@@ -6,6 +6,10 @@ $theme-colors: (
   secondary: $secondary
 );
 
+body.border-top {
+    border-width: 5px !important;
+}
+
 .phone-number {
     font-size: 30px;
     letter-spacing: -2px;
