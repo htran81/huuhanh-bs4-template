@@ -15,7 +15,7 @@ $theme-colors: (
     background-image: url('../assets/adult-business-computers-256219.jpg');
     background-size: cover;
     background-attachment: fixed;
-    height: 300px;
+    min-height: 300px;
 }
 
 .navbar-default .navbar-nav .nav-item .nav-link {
